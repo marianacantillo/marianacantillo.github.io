@@ -499,11 +499,11 @@
 	#aboutme
 	{
 		overflow: hidden;
-		width: 1200px;
+		width: 50%;
 		padding: 2em 0px 0em 0px;
 		text-align: left;
 		font-family: 'vision-thin';
-		font-size: 2em;
+		font-size: 1.2em;
 	}
 	#aboutme .title h2
 	{
